@@ -13,6 +13,6 @@ To run the project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/image-classification-resnet50.git
+   git clone https://github.com/joyaljosz/image-classification-resnet50.git
    cd image-classification-resnet50
 2. Set-Up and Run
